@@ -1,0 +1,4 @@
+# 3D Shape Polymorphism Project ## Description This project demonstrates the concept of polymorphism in Java by creating an interface for 3D shapes and implementing it in different classes. The program generates random objects of different 3D shapes, calculates their surface area and volume, and displays the results.
+
+In the main class , we use polymorphism to create and manage a variety of 3D shapes seamlessly. Imagine having a toolbox that contains different tools, each designed for a specific purpose, yet all fitting neatly into your hand. Polymorphism is like that toolbox, allowing us to handle different shapes—spheres, cylinders, and cubes—effortlessly, without needing to worry about their specific details.
+In this snippet, we create an array to hold references to different shapes, treating each one as a Shape3DInterface.
